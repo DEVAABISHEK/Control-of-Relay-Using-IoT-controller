@@ -1,6 +1,8 @@
 # Control-of-Relay-Using-IoT-controller
+```
 NAME : DEVA ABISHEK P
 REGISTER NO : 212223110008
+```
 ##  AIM:
 To control the Relay using Arduino controller
 
