@@ -1,8 +1,8 @@
-# Control-of-Relay-Using-IoT-controller
-```
-NAME : DEVA ABISHEK P
-REGISTER NO : 212223110008
-```
+## NAME : DEVA ABISHEK P
+## REGISTER NO : 212223110008
+# EX NO 2: Control of Relay Using IoT controller
+
+
 ##  AIM:
 To control the Relay using Arduino controller
 
@@ -56,10 +56,29 @@ void loop() {
 ```
 ## CIRCUIT DIAGRAM:
 ![image](https://github.com/user-attachments/assets/6ccae8d6-7815-4da4-92b0-f118a31a4413)
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
 
 ## OUTPUT:
+# LIGHT ON
 ![Screenshot 2024-09-05 132248](https://github.com/user-attachments/assets/0ec8e3d0-16e8-4f96-b6e7-985992cc7b1b)
+# LIGHT OFF
 ![Screenshot 2024-09-05 132309](https://github.com/user-attachments/assets/66a5b988-b9e5-4dc8-859b-b34322acc240)
+
 
 ## RESULT:
 
